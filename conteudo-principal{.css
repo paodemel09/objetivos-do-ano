@@ -1,0 +1,35 @@
+conteudo-principal{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    max-width: 1200px;
+    width: 100%;
+    margin: 0 auto;
+    }
+    .titulo-principal{
+        text-align: left;
+        width: 100%;
+        font-size: 32px;
+    }
+    .titulo-principal span {
+        color: rgb(55, 190, 28);
+    }
+    .botao {
+        font-family: «crack petch», sans-serif;
+        background-color: var (botao-inativo);
+        color: rgb(24, 117, 160);
+        display: flex;
+        justify-content: center;
+        padding: lem;
+        font-size: 18px ;
+        align-items: center;
+        width: 100%;
+    }
+    border-bottom: 4px solid var(--botao-ativo)
+    border-left: 2px solid var (--botao-ativo)
+    border-rigth: 4px solid var(--botao-ativo)
+    boder-top: nome;
+    .botoes{
+        display: flrx;
+    }s\

@@ -1,0 +1,23 @@
+header
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=, initial-scale=1.0">
+    <title>meus objetivos do ano</title>
+     <link rel = "stylesheet"href="style.css">
+</head>
+<body>
+    <section class="conteudo-principal"></section>
+    <section class="conteudo-principal">meus objetivos do ano</section>
+    <div class="botões">
+    <button class="titulo principal">cursus na alura</button>
+    <button class="titulo principal">criar projetos em javascript</button>
+    <button class="titulo principal">criar um portifolio</button>
+    <button class="titulo principal">atualizar meu curriculo</button>
+    </div>
+</body>
+    <section class="conteudo-principal"></section>
+</body>
+</html>
+
+ 
